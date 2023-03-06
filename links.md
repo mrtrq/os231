@@ -20,3 +20,29 @@ A video about how to setup mac terminal to make it amazing and get a much better
 
 [3. An overview of Cybersecurity](https://www.onelogin.com/learn/what-is-cyber-security)
 Cyber crime has become a very hot issue lately. Ranging from individuals, governments, and even organizations, have a high risk of getting cyber crime. But what exactly cyber crime is? Why do we need security and protection on our system?
+
+### Week 03
+[1. File System Basics](https://www.tutorialspoint.com/unix/unix-file-system.htm)
+Everything you need to know regarding file systems in Unix/Linux. Comprehensive article with examples discussing about directory structure, navigating the file system and other related things. It's the basic so this one is essential.
+
+[2. Quick Video about Linux Directories](https://www.youtube.com/watch?v=42iQKuQodW4&ab_channel=Fireship)
+This video surely will not take much of your time. Exactly as the title suggests, it explains Linux Directories in 100 seconds. Fun to watch!
+
+[3. Printf Format Cheat Sheet](https://alvinalexander.com/programming/printf-format-cheat-sheet/)
+There are lots of placeholders for print formatting in C language. This link covers all types of formatting, from simple to complex, including integers, floating points, strings, and special characters.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
