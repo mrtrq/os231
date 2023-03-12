@@ -33,7 +33,7 @@ There are lots of placeholders for print formatting in C language. This link cov
 
 
 ### Week 04
-[1. Segmented, Paged and Virtual Memory]([https://www.tutorialspoint.com/unix/unix-file-system.htm](https://www.youtube.com/watch?v=p9yZNLeOj4s&ab_channel=ComputerScience)
+[1. Segmented, Paged and Virtual Memory](https://www.tutorialspoint.com/unix/unix-file-system.htm](https://www.youtube.com/watch?v=p9yZNLeOj4s&ab_channel=ComputerScience)
 The speaker presents the topic in a simple yet effective way, explaining the topic of segmented, paged, and virtual memory, contrasting how data is stored in segmented and paged memory management systems.
 
 
