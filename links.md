@@ -47,7 +47,7 @@ You will never ask about pointers again after watching this video (literally it'
 [1. Pointers (Again)](https://www.tutorialspoint.com/cprogramming/c_pointers.html)
 An article to learn about pointers in C.
 
-[2. Virutal Memory](https://tldp.org/LDP/sag/html/vm intro.html#:~:text=Linux%20supports%20virtual%20memory%2C%20that,be%20used%20for%20another%20purpose.)
+[2. Virutal Memory](https://tldp.org/LDP/sag/html/vmintro.html#:~:text=Linux%20supports%20virtual%20memory%2C%20that,be%20used%20for%20another%20purpose.)
 This article explains about the concept of virtual memory and it correlates a lot with linux. I think you will get some good new knowledge.
 
 [3. Kernel](https://www.techtarget.com/searchdatacenter/definition/kernel-panic)
