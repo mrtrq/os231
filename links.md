@@ -43,6 +43,38 @@ The link explains the difference between logical and physical addresses briefly 
 [3. Pointers](https://www.youtube.com/watch?v=2ybLD6_2gKM&ab_channel=LowLevelLearning)
 You will never ask about pointers again after watching this video (literally it's the title of this video). This video explains about pointer with illustration to make it easier to grasp. I found this video valuable because we often use pointers, especially in C programming.
 
+### Week 05
+[1. Pointers (Again)](https://www.tutorialspoint.com/cprogramming/c_pointers.html)
+An article to learn about pointers in C.
+
+[2. Virutal Memory](https://tldp.org/LDP/sag/html/vm intro.html#:~:text=Linux%20supports%20virtual%20memory%2C%20that,be%20used%20for%20another%20purpose.)
+This article explains about the concept of virtual memory and it correlates a lot with linux. I think you will get some good new knowledge.
+
+[3. Kernel](https://www.techtarget.com/searchdatacenter/definition/kernel-panic)
+An article that explains what is kernel panic when boot with low memory.
+
+### Week 06
+
+
+
+### Week 07
+
+
+
+### Week 08
+
+
+
+
+
+### Week 09
+
+
+
+### Week 10
+
+
+
 
 
 
